@@ -4,7 +4,7 @@ git clone https://github.com/andy2506/jane-studio.git<br>
 
 Make sure the directory is on the right path, i.e C:\wamp64\www\jane-studio<br>
 
-Import the database janestudio_db.sql to your local <br><br>
+Import the database janestudio_db.sql to your local database (mysql)<br><br>
 
 Add the host on your hosts;<br>
 127.0.0.1 jane-studio.local<br>
