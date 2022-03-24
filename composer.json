@@ -1,0 +1,12 @@
+{
+    "name": "bws/jane-studio",
+    "authors": [
+        {
+            "name": "Andile",
+            "email": "kweyamaandile@gmail.com"
+        }
+    ],
+    "require": {
+        "bcosca/fatfree": "3.7"
+    }
+}
